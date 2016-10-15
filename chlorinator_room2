@@ -1,0 +1,13 @@
+public class chlorinator_room2 extends chlorinator_room {
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        this.setContentView(R.layout.chlorinator_room_form2);
+    }
+
+
+}
+
+ 
+
